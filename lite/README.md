@@ -1,0 +1,1 @@
+instancia lite - los mods llegan por la regla mods.json del repo synclauncher
