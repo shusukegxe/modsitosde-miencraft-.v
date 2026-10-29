@@ -1,0 +1,1 @@
+instancia 26.2 - mods por mods.json o copia manual
